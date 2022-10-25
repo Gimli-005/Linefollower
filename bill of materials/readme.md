@@ -10,7 +10,7 @@
 |         5| Batterijhouder voor 18650  |         |   Nieuw        |  €5,39     |  1    |   €5,39      |
 |         6| H-brug  DRV8835 |     Voor besturing wielen       |  Nieuw         | €14,27    |  1    |  €14,27     |
 |         7| Communicatie HM-10  |    |   Nieuw        | €6,90 + €2,25   |  1    |  €9,15     |
-|         8| Arduino Leonardo   |        |   Nieuw        | €25,52  |   1   |   €25,52   |
+|         8| Arduino Leonardo met atmega  |        |   Nieuw        | €25,52  |   1   |   €25,52   |
 |         9| Bouten M5   |            |    Nieuw       |              |  1    |         |
 |         10| Batterijlader 18650   |            |  Nieuw    |   €15,02     |  1   | €15,02        |
 |         11| Moeren M5   |            |   recup    |        | 1     |       |
