@@ -10,9 +10,11 @@ Een instructable is een stappenplan - zonder verdere uitleg - hoe je vertrekkend
       • Multimeter 
 
 ### stap 2:  Verkrijgen materialen
-    Waar deze materialen te verkrijgen zijn staat uitgelegd bij het desbetreffende onderwerp. Bestel alles tijdig en voorzie voldoende reserve componenten       voor foutieve of defecte componenten te kunnen vervangen.
+    
+   Waar deze materialen te verkrijgen zijn staat uitgelegd bij het desbetreffende onderwerp. Bestel alles tijdig en voorzie voldoende reserve componenten      voor foutieve of defecte componenten te kunnen vervangen.
     
 ### stap 3: Solderen van printplaat met componenten
+
    De printplaat wordt gesoldeerd in volgende stappen, volgens de schema’s terug te vinden in Linefollower -> technische tekeningen Elektrisch Schema ->        Schematic_Elektisch Schema B_2022: 
    
       • Stap 1: Voeding 
@@ -32,6 +34,7 @@ Een instructable is een stappenplan - zonder verdere uitleg - hoe je vertrekkend
    Als er programma’s dienen geüpload te worden tijdens het testen, gebeurd dit volgens de stappen terug te vinden bij deel: V. Installeren van een            programma.
         
   ### stap 4: Ontwerp  
+  
    Het 3D-printen van de ontworpen onderdelen die men kan vinden in Linefollower -> technische tekeningen -> mechanische tekeningen -> Arduino-                ondersteuning.stl, linefollower_verbeterd.stl en ondersteuning motor.stl.
      
       • Eerst moet alles gesoldeerd worden: Sensor, H-brug en de motorenen
@@ -59,3 +62,26 @@ Een instructable is een stappenplan - zonder verdere uitleg - hoe je vertrekkend
   Hierna is de HM-10 module ingesteld naar jouw voorkeur en klaar voor gebruik.
   
    ### stap 6: Verbinden bluetooth 
+   
+   Het verbinden met bluetooth gebeurd met de bluetooth app en de linefollower. Dit kan enkel nadat de bluetooth module is ingesteld bij stap 5.
+   Voor het instellen van HM-10 module gebeurt in volgende stappen:
+   
+      1.	Installeer de app op uw Android toestel volgens Linefollower -> Code -> ? 
+      2.	Voorzie de linefollower van spanning 
+      3.	Verbind het Android toestel met de linefollower via bluetooth 
+        a.	Zoek hierbij naar de naam die je hebt ingesteld 
+        b.	Indien nodig, geef de code in die je hebt ingesteld 
+      4.	Open de Serial Bluetooth Terminal op het Android toestel 
+      5.	Ga naar “devices” 
+      6.	Druk op de ingestelde naam van jouw bluetooth module 
+        a.	Indien nodig, geef de code in die je hebt ingesteld 
+      7.	Ga naar “terminal” 
+      8.	Druk op het connect icoon rechts boven 
+        a.	In de terminal verschijnt: 
+          i. Connecting…
+          ii. Connected 
+      9.	Hierna is de connectie bevestigd 
+      10.	Onderaan kunnen nu commando’s getypt worden en verzonden met het pijltje erna 
+         a.	De verzonden commando’s verschijnen in de terminal 
+         b.	Ook de antwoorden zullen te lezen zijn in de terminal
+
