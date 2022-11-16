@@ -44,4 +44,18 @@ Een instructable is een stappenplan - zonder verdere uitleg - hoe je vertrekkend
       • Ook wordt de batterijhouder met betterijen gemonteerd aan de linefollower_verbeterd.stl
       • Dan zullen er M5 bouten met moeren de linefollower_verbeterd.stl en de Arduino-ondersteuning.stl met elkaar bevestigen
       • Hierbij zal de Arduino met de printplaatje gemonteerd worden op de Arduino-ondersteuning.st
-      • Als laatste kunnen men dan de H-brug, drukknop, bleuthooth module en de wipschakelaar aansluiten op de arduino 
+      • Als laatste kunnen men dan de H-brug, drukknop, bleuthooth module en de wipschakelaar aansluiten op de arduino
+      
+  ### stap 5      
+  Het instellen van de HM-10 module gebeurt met AT-commando’s. Deze zijn terug te vinden in volgende link: https://people.ece.cornell.edu/land/courses/ece4760/PIC32/uart/HM10/DSD%20TECH%20HM-10%20datasheet.pdf  
+  Installeer het programma “Bluetooth”. Open de Arduino IDE en open de seriële monitor. Hier plaatsen we de baudrate op 9600. Daarna stellen we de HM-10       module in met volgende commando’s:
+  
+      •AT 
+      •Controleert connectie: antwoord “OK” 
+      •AT+NAME<uw naam> o Wijzigt naam naar “uwnaam”: antwoord “OK<uwnaam>” 
+      •AT+BAUD<nummer> 
+      •Wijzigt baudrate (voor ons naar nummer 4:9600): antwoord “OK<nummer>” 
+      •AT-PIN<pincode> o Wijzigt pincode: antwoord “OK<pincode>” 
+      •AT+RESET o Resets bluetooth module
+      
+  Hierna is de HM-10 module ingesteld naar jouw voorkeur en klaar voor gebruik. 
