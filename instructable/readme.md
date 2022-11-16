@@ -36,5 +36,12 @@ Een instructable is een stappenplan - zonder verdere uitleg - hoe je vertrekkend
   ### stap 4  
    Het 3D-printen van de ontworpen onderdelen die men kan vinden in Linefollower -> technische tekeningen -> mechanische tekeningen -> Arduino-                ondersteuning.stl, linefollower_verbeterd.stl en ondersteuning motor.stl.
      
-     
-        
+      • Eerst moet alles gesoldeerd worden: Sensor, H-brug en de motorenen
+      • Bij linefollower_verbeterd.stl worden M4 bouten gebruikt voor de moteren te bevestigen met de ondersteuning motor.stl
+      • Daarna wordt er een M4 bout gebruikt voor de voorkant van de linefollower_verbeterd.stl de hoogte in te stellen van de grond
+      • Dan worden de wielen bevestigd aan de motoren.
+      • Vervolgens wordt de sensor bevestigd op de linefollower_verbeterd.stl aan de voorkant bij de voorziene gaten.
+      • Ook wordt de batterijhouder met betterijen gemonteerd aan de linefollower_verbeterd.stl
+      • Dan zullen er M5 bouten met moeren de linefollower_verbeterd.stl en de Arduino-ondersteuning.stl met elkaar bevestigen
+      • Hierbij zal de Arduino met de printplaatje gemonteerd worden op de Arduino-ondersteuning.st
+      • Als laatste kunnen men dan de H-brug, drukknop, bleuthooth module en de wipschakelaar aansluiten op de arduino 
