@@ -3,7 +3,8 @@
 Een instructable is een stappenplan - zonder verdere uitleg - hoe je vertrekkend van de bill of materials en gebruik makend van de technische tekeningen de robot kan nabouwen. Ook de nodige stappen om de microcontroller te compileren en te uploaden staan beschreven.  
 
 ### stap 1
-  Verzamel alle benodigdheden: 
+  Verzamel alle benodigdheden:
+  
       •	 Benodigde materialen volgens “BOM” in het technisch dossier 
       •	Benodigde software volgens “Software” in het technisch dossier 
       •	Soldeermateriaal o Soldeerbout o Soldeerflux o Soldeertin 
@@ -25,8 +26,8 @@ Een instructable is een stappenplan - zonder verdere uitleg - hoe je vertrekkend
    Bij het solderen testen we veel of de componenten correct gesoldeerd zijn. Is bij een test het resultaat niet gewenst, bekijk of de laatst                  aangesloten componenten correct staan. Staan ze fout of zijn er slechte aansluitingen? Soldeer deze componenten dan opnieuw. 
    Bij het testen moet men altijd rekening houden met de volgende stappen:
         
-     •	Plaats opgeladen batterijen in houder 
-     •	Verbindt de correcte pinnen van header H1 
+     •  Plaats opgeladen batterijen in houder 
+     •  Verbindt de correcte pinnen van header H1 
      •  Voer de tests uit 
      •  Verwijder de batterijen
        
