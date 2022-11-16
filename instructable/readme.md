@@ -2,18 +2,18 @@
 
 Een instructable is een stappenplan - zonder verdere uitleg - hoe je vertrekkend van de bill of materials en gebruik makend van de technische tekeningen de robot kan nabouwen. Ook de nodige stappen om de microcontroller te compileren en te uploaden staan beschreven.  
 
-### stap 1: Verzamel alle benodigdheden  
+### Stap 1: Verzamel alle benodigdheden  
   
       • Benodigde materialen volgens “BOM” in het technisch dossier 
       • Benodigde software volgens “Software” in het technisch dossier 
       • Soldeermateriaal o Soldeerbout o Soldeerflux o Soldeertin 
       • Multimeter 
 
-### stap 2:  Verkrijgen materialen
+### Stap 2:  Verkrijgen materialen
     
    Waar deze materialen te verkrijgen zijn staat uitgelegd bij het desbetreffende onderwerp. Bestel alles tijdig en voorzie voldoende reserve componenten      voor foutieve of defecte componenten te kunnen vervangen.
     
-### stap 3: Solderen van printplaat met componenten
+### Stap 3: Solderen van printplaat met componenten
 
    De printplaat wordt gesoldeerd in volgende stappen, volgens de schema’s terug te vinden in Linefollower -> technische tekeningen Elektrisch Schema ->        Schematic_Elektisch Schema B_2022: 
    
@@ -33,7 +33,7 @@ Een instructable is een stappenplan - zonder verdere uitleg - hoe je vertrekkend
        
    Als er programma’s dienen geüpload te worden tijdens het testen, gebeurd dit volgens de stappen terug te vinden bij deel: V. Installeren van een            programma.
         
-  ### stap 4: Ontwerp  
+  ### Stap 4: Ontwerp  
   
    Het 3D-printen van de ontworpen onderdelen die men kan vinden in Linefollower -> technische tekeningen -> mechanische tekeningen -> Arduino-                ondersteuning.stl, linefollower_verbeterd.stl en ondersteuning motor.stl.
      
@@ -47,7 +47,7 @@ Een instructable is een stappenplan - zonder verdere uitleg - hoe je vertrekkend
       • Hierbij zal de Arduino met de printplaatje gemonteerd worden op de Arduino-ondersteuning.st
       • Als laatste kunnen men dan de H-brug, drukknop, bleuthooth module en de wipschakelaar aansluiten op de arduino
       
-  ### stap 5: Instellen HM-10 module     
+  ### Stap 5: Instellen HM-10 module     
   Het instellen van de HM-10 module gebeurt met AT-commando’s. Deze zijn terug te vinden in volgende link: https://people.ece.cornell.edu/land/courses/ece4760/PIC32/uart/HM10/DSD%20TECH%20HM-10%20datasheet.pdf  
   Installeer het programma “Bluetooth”. Open de Arduino IDE en open de seriële monitor. Hier plaatsen we de baudrate op 9600. Daarna stellen we de HM-10       module in met volgende commando’s:
   
@@ -59,9 +59,9 @@ Een instructable is een stappenplan - zonder verdere uitleg - hoe je vertrekkend
       •AT-PIN<pincode> o Wijzigt pincode: antwoord “OK<pincode>” 
       •AT+RESET o Resets bluetooth module
       
-  Hierna is de HM-10 module ingesteld naar jouw voorkeur en klaar voor gebruik.
+   Hierna is de HM-10 module ingesteld naar jouw voorkeur en klaar voor gebruik.
   
-   ### stap 6: Verbinden bluetooth 
+   ### Stap 6: Verbinden bluetooth 
    
    Het verbinden met bluetooth gebeurd met de bluetooth app en de linefollower. Dit kan enkel nadat de bluetooth module is ingesteld bij stap 5.
    Voor het instellen van HM-10 module gebeurt in volgende stappen:
@@ -85,3 +85,6 @@ Een instructable is een stappenplan - zonder verdere uitleg - hoe je vertrekkend
          a.	De verzonden commando’s verschijnen in de terminal 
          b.	Ook de antwoorden zullen te lezen zijn in de terminal
 
+   ### Stap 7:
+   
+   
