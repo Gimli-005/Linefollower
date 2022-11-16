@@ -4,10 +4,10 @@ Een instructable is een stappenplan - zonder verdere uitleg - hoe je vertrekkend
 
 ### stap 1
   Verzamel alle benodigdheden: 
-    •	 Benodigde materialen volgens “BOM” in het technisch dossier 
-    •	Benodigde software volgens “Software” in het technisch dossier 
-    •	Soldeermateriaal o Soldeerbout o Soldeerflux o Soldeertin 
-    •	Multimeter 
+      •	 Benodigde materialen volgens “BOM” in het technisch dossier 
+      •	Benodigde software volgens “Software” in het technisch dossier 
+      •	Soldeermateriaal o Soldeerbout o Soldeerflux o Soldeertin 
+      •	Multimeter 
 
 ### stap 2
  Verkrijgen materialen 
@@ -27,7 +27,7 @@ Een instructable is een stappenplan - zonder verdere uitleg - hoe je vertrekkend
         
      •	Plaats opgeladen batterijen in houder 
      •	Verbindt de correcte pinnen van header H1 
-     •	Voer de tests uit 
+     •  Voer de tests uit 
      •  Verwijder de batterijen
        
    Als er programma’s dienen geüpload te worden tijdens het testen, gebeurd dit volgens de stappen terug te vinden bij deel: V. Installeren van een            programma.
