@@ -66,7 +66,7 @@ Een instructable is een stappenplan - zonder verdere uitleg - hoe je vertrekkend
    Het verbinden met bluetooth gebeurd met de bluetooth app en de linefollower. Dit kan enkel nadat de bluetooth module is ingesteld bij stap 5.
    Voor het instellen van HC-05 module gebeurt in volgende stappen:
    
-      1.	Installeer de app op uw Android toestel volgens Linefollower -> Code -> ? 
+      1.	Installeer de app op uw Android toestel via play store en type: Serial Bluetooth Terminal in.
       2.	Voorzie de linefollower van spanning 
       3.	Verbind het Android toestel met de linefollower via bluetooth 
         a.	Zoek hierbij naar de naam die je hebt ingesteld 
