@@ -9,21 +9,21 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
   
 ## specifications
 <br />
-microcontroller:
+microcontroller: ATmega32PU
 <br />
-motors: 
+motors: 50:1 Micro metal gear motor HP 6V
 <br />
-h-bridge:
+h-bridge: DRV 8835 Dual motor
 <br />
-sensors:
+sensors: QTR 8A sensor array
 <br />
-batteries:
+batteries: 1860 batteries
 <br />
-wireless communication:
+wireless communication: AZDelivery HC-05 Bluetooth Wireless RF Transceiver Module RS232 Seriële TTL 
 <br />
-distance sensor - motors:
+distance sensor - motors: ?
 <br />
-weight:
+weight: ?
 <br />
-speed: 
+speed: ?
 <br />
