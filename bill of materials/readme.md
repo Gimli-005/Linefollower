@@ -14,7 +14,7 @@
 |         9| Bouten M5   |            |    recup       |              |  1    |         |
 |         10| Batterijlader 18650   |            |  Nieuw    |   €15,02     |  1   | €15,02        |
 |         11| Moeren M5   |            |   recup    |        | 1     |       |
-|         13| printplaatje   |            |     nieuw      |   1     |   1  |   €0.99 |
+|         13| printplaatje 5cmx7cm  |            |     nieuw      |   1     |   1  |   €0.99 |
 |         14| Transportkosten   |            |           |        |      |   €36,00      |
 |         15|    |            |           |              |      |         |
 |         16| Totaal   |            |           |              |      |   €176,65     |
