@@ -6,7 +6,10 @@ Een instructable is een stappenplan - zonder verdere uitleg - hoe je vertrekkend
   
       • Benodigde materialen volgens “BOM” in het technisch dossier 
       • Benodigde software volgens “Software” in het technisch dossier 
-      • Soldeermateriaal o Soldeerbout o Soldeerflux o Soldeertin 
+      • Soldeermateriaal 
+        o Soldeerbout 
+        o Soldeerflux 
+        o Soldeertin 
       • Multimeter 
 
 ### Stap 2:  Verkrijgen materialen
