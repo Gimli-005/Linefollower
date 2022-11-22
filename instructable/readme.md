@@ -47,9 +47,9 @@ Een instructable is een stappenplan - zonder verdere uitleg - hoe je vertrekkend
       • Hierbij zal de Arduino met de printplaatje gemonteerd worden op de Arduino-ondersteuning.st
       • Als laatste kunnen men dan de H-brug, drukknop, bleuthooth module en de wipschakelaar aansluiten op de arduino
       
-  ### Stap 5: Instellen HM-10 module     
-  Het instellen van de HM-10 module gebeurt met AT-commando’s. Deze zijn terug te vinden in volgende link: https://people.ece.cornell.edu/land/courses/ece4760/PIC32/uart/HM10/DSD%20TECH%20HM-10%20datasheet.pdf  
-  Installeer het programma “Bluetooth”. Open de Arduino IDE en open de seriële monitor. Hier plaatsen we de baudrate op 9600. Daarna stellen we de HM-10       module in met volgende commando’s:
+  ### Stap 5: Instellen HC-05 module     
+  Het instellen van de HC-05 module gebeurt met AT-commando’s. Deze zijn terug te vinden in volgende link: https://people.ece.cornell.edu/land/courses/ece4760/PIC32/uart/HM10/DSD%20TECH%20HM-10%20datasheet.pdf  
+  Installeer het programma “Bluetooth”. Open de Arduino IDE en open de seriële monitor. Hier plaatsen we de baudrate op 9600. Daarna stellen we de HC-05       module in met volgende commando’s:
   
       •AT 
       •Controleert connectie: antwoord “OK” 
@@ -59,12 +59,12 @@ Een instructable is een stappenplan - zonder verdere uitleg - hoe je vertrekkend
       •AT-PIN<pincode> o Wijzigt pincode: antwoord “OK<pincode>” 
       •AT+RESET o Resets bluetooth module
       
-   Hierna is de HM-10 module ingesteld naar jouw voorkeur en klaar voor gebruik.
+   Hierna is de HC-05 module ingesteld naar jouw voorkeur en klaar voor gebruik.
   
    ### Stap 6: Verbinden bluetooth 
    
    Het verbinden met bluetooth gebeurd met de bluetooth app en de linefollower. Dit kan enkel nadat de bluetooth module is ingesteld bij stap 5.
-   Voor het instellen van HM-10 module gebeurt in volgende stappen:
+   Voor het instellen van HC-05 module gebeurt in volgende stappen:
    
       1.	Installeer de app op uw Android toestel volgens Linefollower -> Code -> ? 
       2.	Voorzie de linefollower van spanning 
@@ -86,5 +86,6 @@ Een instructable is een stappenplan - zonder verdere uitleg - hoe je vertrekkend
          b.	Ook de antwoorden zullen te lezen zijn in de terminal
 
    ### Stap 7:
+   
    
    
