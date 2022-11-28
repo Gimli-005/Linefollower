@@ -1,7 +1,7 @@
-int BENABLE = 7; 
-int BPHASE =  5;
-int AENABLE = 12; 
-int APHASE = 10;
+int BENABLE = 8; 
+int BPHASE =  9;
+int AENABLE = 7; 
+int APHASE = 6;
 //int POTB = A0;
 //int POTA= A1;
 //int valA = 0;
