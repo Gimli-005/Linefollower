@@ -18,7 +18,7 @@ Een instructable is een stappenplan - zonder verdere uitleg - hoe je vertrekkend
     
 ### Stap 3: Solderen van printplaat met componenten
 
-   De printplaat wordt gesoldeerd in volgende stappen, volgens de schema’s terug te vinden in Linefollower -> technische tekeningen Elektrisch Schema ->        Schematic_Elektisch Schema B_2022: 
+   De printplaat wordt gesoldeerd in volgende stappen, volgens de schema’s terug te vinden in Linefollower -> technische tekeningen Elektrisch Schema ->                        Schematic_Elektisch Schema B_2022: 
    
       • Stap 1: Voeding 
       • Stap 2: Microcontroller 
@@ -26,7 +26,7 @@ Een instructable is een stappenplan - zonder verdere uitleg - hoe je vertrekkend
       • Stap 4: H-brug 
       • Stap 5: Sensoren
         
-   Bij het solderen testen we veel of de componenten correct gesoldeerd zijn. Is bij een test het resultaat niet gewenst, bekijk of de laatst                  aangesloten componenten correct staan. Staan ze fout of zijn er slechte aansluitingen? Soldeer deze componenten dan opnieuw. 
+   Bij het solderen testen we veel of de componenten correct gesoldeerd zijn. Is bij een test het resultaat niet gewenst, bekijk of de laatst                  aangesloten      componenten correct staan. Staan ze fout of zijn er slechte aansluitingen? Soldeer deze componenten dan opnieuw. 
    Bij het testen moet men altijd rekening houden met de volgende stappen:
         
      •  Plaats opgeladen batterijen in houder 
@@ -50,9 +50,10 @@ Een instructable is een stappenplan - zonder verdere uitleg - hoe je vertrekkend
       • Hierbij zal de Arduino met de printplaatje gemonteerd worden op de Arduino-ondersteuning.st
       • Als laatste kunnen men dan de H-brug, drukknop, bleuthooth module en de wipschakelaar aansluiten op de arduino
       
-  ### Stap 5: Instellen HC-05 module     
-  Het instellen van de HC-05 module gebeurt met AT-commando’s. Deze zijn terug te vinden in volgende link: https://people.ece.cornell.edu/land/courses/ece4760/PIC32/uart/HM10/DSD%20TECH%20HM-10%20datasheet.pdf  
-  Installeer het programma “Bluetooth”. Open de Arduino IDE en open de seriële monitor. Hier plaatsen we de baudrate op 9600. Daarna stellen we de HC-05       module in met volgende commando’s:
+  ### Stap 5: Instellen HM-10  module     
+  Het instellen van de HM-10  module gebeurt met AT-commando’s. Deze zijn terug te vinden in volgende link: https://people.ece.cornell.edu/land/courses/ece4760/PIC32/uart/HM10/DSD%20TECH%20HM-10%20datasheet.pdf  
+  Installeer het programma “Bluetooth”. Open de Arduino IDE en open de seriële monitor. Hier plaatsen we de baudrate op 9600. Daarna stellen we de HM-10 
+  module in met volgende commando’s:
   
       •AT 
       •Controleert connectie: antwoord “OK” 
@@ -67,7 +68,7 @@ Een instructable is een stappenplan - zonder verdere uitleg - hoe je vertrekkend
    ### Stap 6: Verbinden bluetooth 
    
    Het verbinden met bluetooth gebeurd met de bluetooth app en de linefollower. Dit kan enkel nadat de bluetooth module is ingesteld bij stap 5.
-   Voor het instellen van HC-05 module gebeurt in volgende stappen:
+   Voor het instellen van HM-10 module gebeurt in volgende stappen:
    
       1.	Installeer de app op uw Android toestel via play store en type: Serial Bluetooth Terminal in.
       2.	Voorzie de linefollower van spanning 
