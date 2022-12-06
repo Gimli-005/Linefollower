@@ -170,14 +170,14 @@ Een instructable is een stappenplan - zonder verdere uitleg - hoe je vertrekkend
           Met dit programma wordt de volledige linefollower aangestuurd. Dit programma werkt met volgende commando’s: 
           •	Debug: 
             o Geeft alle ingestelde waarden weer o Antwoorden: 
-              ▪	“Cycle time: “cyclustijd” microseconden” 
-              ▪	“kp: “kp-waarde”” 
-              ▪	“ki: “ki-waarde”” 
-              ▪	“kd: “kd-waarde”” 
-              ▪	“diff: “diff-waarde”” 
-              ▪	“power: “power-waarde”” 
-              ▪	“Calculation time: “calculatietijd”” 
-              ▪	“calibration white: “6 sensorwaarden”” 
+              ▪“Cycle time: “cyclustijd” microseconden” 
+              ▪“kp: “kp-waarde”” 
+              ▪“ki: “ki-waarde”” 
+              ▪“kd: “kd-waarde”” 
+              ▪“diff: “diff-waarde”” 
+              ▪“power: “power-waarde”” 
+              ▪“Calculation time: “calculatietijd”” 
+              ▪“calibration white: “6 sensorwaarden”” 
           •	Deze waarden moeten zo laag mogelijk zijn 
 	            ▪	“calibration black: “6 sensorwaarden”” 
           •	Deze waarden moeten zo dicht mogelijk bij 1024 liggen 
@@ -201,7 +201,8 @@ Een instructable is een stappenplan - zonder verdere uitleg - hoe je vertrekkend
               o Eenmaal klaar antwoord: “done” 
  
    ### Stap 9: Gebruik linefollower
-        Eenmaal je verbonden bent met bluetooth door middel van stap 6 (Verbinden met bluetooth) kan je via bluetooth communiceren met de linefollower
+   
+       Eenmaal je verbonden bent met bluetooth door middel van stap 6 (Verbinden met bluetooth) kan je via bluetooth communiceren met de linefollower
 	volgens de commando’s weergegeven in stap 7.
 	Pogramma’s en hun gebruik -> Finaal programma. Hiermee kan men testen om de limieten van de linefollower op te zoeken.
          
