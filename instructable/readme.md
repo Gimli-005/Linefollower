@@ -179,13 +179,13 @@ Een instructable is een stappenplan - zonder verdere uitleg - hoe je vertrekkend
               ▪	“Calculation time: “calculatietijd”” 
               ▪	“calibration white: “6 sensorwaarden”” 
           •	Deze waarden moeten zo laag mogelijk zijn 
-	            ▪ “calibration black: “6 sensorwaarden”” 
+	            ▪	“calibration black: “6 sensorwaarden”” 
           •	Deze waarden moeten zo dicht mogelijk bij 1024 liggen 
-              ▪ “sensors: “6 huidige sensorwaarden”” 
+              ▪	“sensors: “6 huidige sensorwaarden”” 
           •	Waar lijn is moet bij de overeenkomstige sensoren de waardes hoog liggen, bij de overige sensoren de waardes laag 
               ▪	“position: “huidige positie lijn”” 
-          •  	Set cycle “waarde” o Stelt de cyclustijd in naar de gewenste waarde 
-          • 	Set kp “waarde” o Stelt de kp-waarde in naar de gewenste waarde 
+          •	Set cycle “waarde” o Stelt de cyclustijd in naar de gewenste waarde 
+          •	Set kp “waarde” o Stelt de kp-waarde in naar de gewenste waarde 
           •	Set ki “waarde” o Stelt de ki-waarde in naar de gewenste waarde 
           •	Set kd “waarde” o Stelt de kd-waarde in naar de gewenste waarde 
           •	Set diff “waarde” o Stelt de diff-waarde in naar de gewenste waarde, deze moet tussen 0 en 1 liggen 
@@ -201,7 +201,9 @@ Een instructable is een stappenplan - zonder verdere uitleg - hoe je vertrekkend
               o Eenmaal klaar antwoord: “done” 
  
    ### Stap 9: Gebruik linefollower
-        Eenmaal je verbonden bent met bluetooth door middel van stap 6 (Verbinden met bluetooth) kan je via bluetooth communiceren met de linefollower volgens de commando’s         weergegeven in stap 7. Pogramma’s en hun gebruik -> Finaal programma. Hiermee kan men testen om de limieten van de linefollower op te zoeken.
+        Eenmaal je verbonden bent met bluetooth door middel van stap 6 (Verbinden met bluetooth) kan je via bluetooth communiceren met de linefollower
+	volgens de commando’s weergegeven in stap 7.
+	Pogramma’s en hun gebruik -> Finaal programma. Hiermee kan men testen om de limieten van de linefollower op te zoeken.
          
         Ingestelde waarden 
         Tijdens het testen van onze linefollower kwamen we bij deze instellingen de beste waarden uit:  
