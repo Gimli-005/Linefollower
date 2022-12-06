@@ -94,7 +94,9 @@ Een instructable is een stappenplan - zonder verdere uitleg - hoe je vertrekkend
             Met dit programma stellen we onze bluetooth module in, zoals uitgelegd in: VI. Instellen HC-06 module. 
             Houdt de linefollower gedurende de werking van dit programma verbonden via kabel. 
         Blink 
-            Dit programma wordt gebruikt voor het controleren van de microcontroller en de bluetooth communicatie. Dit gaat aan de hand van volgende commando’s en hun                    gewenste resultaat: 
+            Dit programma wordt gebruikt voor het controleren van de microcontroller en de bluetooth communicatie.
+	    Dit gaat aan de hand van volgende commando’s en hun gewenste resultaat:
+	    
           Vanaf het begin pinkt een led cyclisch mee. 
               •	Set debug on o Laat cyclisch antwoorden: “loop still running” 
               •	Set debug off o Stopt cyclisch antwoorden: “loop still running” 
@@ -198,7 +200,7 @@ Een instructable is een stappenplan - zonder verdere uitleg - hoe je vertrekkend
               o Eenmaal klaar antwoord: “done” 
  
     ### Stap 9: Gebruik linefollower
-        Eenmaal je verbonden bent met bluetooth door middel van stap 6 (Verbinden met bluetooth) kan je via bluetooth communiceren met de linefollower volgens de commando’s         weergegeven in stap 7. Programma’s en hun gebruik -> Finaal programma. Hiermee kan men testen om de limieten van de linefollower op te zoeken.
+        Eenmaal je verbonden bent met bluetooth door middel van stap 6 (Verbinden met bluetooth) kan je via bluetooth communiceren met de linefollower volgens de commando’s         weergegeven in stap 7. Pogramma’s en hun gebruik -> Finaal programma. Hiermee kan men testen om de limieten van de linefollower op te zoeken.
          
         Ingestelde waarden 
         Tijdens het testen van onze linefollower kwamen we bij deze instellingen de beste waarden uit:  
