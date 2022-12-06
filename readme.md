@@ -19,7 +19,7 @@ sensors: QTR 8A sensor array
 <br />
 batteries: 1860 batteries
 <br />
-wireless communication: AZDelivery HC-05 Bluetooth Wireless RF Transceiver Module RS232 Seriële TTL 
+wireless communication: AZDelivery HM-10 Bluetooth Wireless RF Transceiver Module RS232 Seriële TTL 
 <br />
 distance sensor - motors: ?
 <br />
