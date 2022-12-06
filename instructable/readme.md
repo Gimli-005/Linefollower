@@ -162,9 +162,10 @@ Een instructable is een stappenplan - zonder verdere uitleg - hoe je vertrekkend
           •	Calibrate white o Plaats de sensoren boven een wit vlak en voer dit commando in
               o Antwoord: “start calibrating white… ”
               o Eenmaal klaar antwoord: “done” 
-          Test de correctheid van de sensoren door de kalibratie en door een zwart lijn op verschillende plaatsen onder sensoren door te laten gaan en te zien dat de                 waardes overeenkomen. 
+          Test de correctheid van de sensoren door de kalibratie en door een zwart lijn op verschillende plaatsen 
+	  onder sensoren door te laten gaan en te zien dat de waardes overeenkomen. 
  	 
-    ### Stap 8: Finaal programma
+   ### Stap 8: Finaal programma
 
           Met dit programma wordt de volledige linefollower aangestuurd. Dit programma werkt met volgende commando’s: 
           •	Debug: 
@@ -183,8 +184,8 @@ Een instructable is een stappenplan - zonder verdere uitleg - hoe je vertrekkend
               ▪ “sensors: “6 huidige sensorwaarden”” 
           •	Waar lijn is moet bij de overeenkomstige sensoren de waardes hoog liggen, bij de overige sensoren de waardes laag 
               ▪	“position: “huidige positie lijn”” 
-          •  Set cycle “waarde” o Stelt de cyclustijd in naar de gewenste waarde 
-          •	Set kp “waarde” o Stelt de kp-waarde in naar de gewenste waarde 
+          •  	Set cycle “waarde” o Stelt de cyclustijd in naar de gewenste waarde 
+          • 	Set kp “waarde” o Stelt de kp-waarde in naar de gewenste waarde 
           •	Set ki “waarde” o Stelt de ki-waarde in naar de gewenste waarde 
           •	Set kd “waarde” o Stelt de kd-waarde in naar de gewenste waarde 
           •	Set diff “waarde” o Stelt de diff-waarde in naar de gewenste waarde, deze moet tussen 0 en 1 liggen 
@@ -199,7 +200,7 @@ Een instructable is een stappenplan - zonder verdere uitleg - hoe je vertrekkend
               o Antwoord: “start calibrating white… ” 
               o Eenmaal klaar antwoord: “done” 
  
-    ### Stap 9: Gebruik linefollower
+   ### Stap 9: Gebruik linefollower
         Eenmaal je verbonden bent met bluetooth door middel van stap 6 (Verbinden met bluetooth) kan je via bluetooth communiceren met de linefollower volgens de commando’s         weergegeven in stap 7. Pogramma’s en hun gebruik -> Finaal programma. Hiermee kan men testen om de limieten van de linefollower op te zoeken.
          
         Ingestelde waarden 
