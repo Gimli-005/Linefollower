@@ -170,14 +170,14 @@ Een instructable is een stappenplan - zonder verdere uitleg - hoe je vertrekkend
           Met dit programma wordt de volledige linefollower aangestuurd. Dit programma werkt met volgende commando’s: 
           •	Debug: 
             o Geeft alle ingestelde waarden weer o Antwoorden: 
-              ▪“Cycle time: “cyclustijd” microseconden” 
-              ▪“kp: “kp-waarde”” 
-              ▪“ki: “ki-waarde”” 
-              ▪“kd: “kd-waarde”” 
-              ▪“diff: “diff-waarde”” 
-              ▪“power: “power-waarde”” 
-              ▪“Calculation time: “calculatietijd”” 
-              ▪“calibration white: “6 sensorwaarden”” 
+              ▪	“Cycle time: “cyclustijd” microseconden” 
+              ▪	“kp: “kp-waarde”” 
+              ▪	“ki: “ki-waarde”” 
+              ▪	“kd: “kd-waarde”” 
+              ▪	“diff: “diff-waarde”” 
+              ▪	“power: “power-waarde”” 
+              ▪	“Calculation time: “calculatietijd”” 
+              ▪	“calibration white: “6 sensorwaarden”” 
           •	Deze waarden moeten zo laag mogelijk zijn 
 	            ▪	“calibration black: “6 sensorwaarden”” 
           •	Deze waarden moeten zo dicht mogelijk bij 1024 liggen 
