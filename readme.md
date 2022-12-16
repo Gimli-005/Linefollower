@@ -5,6 +5,7 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
 <br />
 [picture]
 <br />
+![20221208_220317](https://user-images.githubusercontent.com/114517587/208100045-4019325e-a682-4451-96da-d39f02eeef10.jpg)
 <br />
   
 ## specifications
@@ -21,9 +22,9 @@ batteries: 1860 batteries
 <br />
 wireless communication: AZDelivery HM-10 Bluetooth Wireless RF Transceiver Module RS232 Seriële TTL 
 <br />
-distance sensor - motors: ?
+distance sensor - motors: 140 mm
 <br />
 weight: ?
 <br />
-speed: ?
+speed: 0.54
 <br />
