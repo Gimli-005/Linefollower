@@ -3,8 +3,6 @@
 lege repository die je als template kan gebruiken om een eigen repository te starten voor uw linefollower project
 <br />
 <br />
-[picture]
-<br />
 ![20221208_220317](https://user-images.githubusercontent.com/114517587/208100045-4019325e-a682-4451-96da-d39f02eeef10.jpg)
 <br />
   
