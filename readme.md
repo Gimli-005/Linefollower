@@ -19,7 +19,7 @@ wireless communication: AZDelivery HM-10 Bluetooth Wireless RF Transceiver Modul
 <br />
 distance sensor - motors: 140 mm
 <br />
-weight: ?
+weight: 300 g
 <br />
 speed: 0.54
 <br />
